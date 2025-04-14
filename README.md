@@ -4,7 +4,7 @@
 
 **목표**: 반응형, 검색 및 필터 기능을 갖춘 YouTube 목업 사이트 제작
 
-**기술 스택**: HTML, CSS, JavaScript (Vanilla)
+**기술 스택**: HTML, CSS, JavaScript (Tailswind)
 
 **주요 기능**: 다크모드, 사이드바 토글, 검색, 카테고리 필터, YouTube API 연동
 
